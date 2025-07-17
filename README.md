@@ -5,7 +5,7 @@ Hello world, this is my profile
 🎓 A passionate learner in the field of *Data Analytics*  
 📍 From West Bengal, India  
 📊 Turning raw data into insights using visualization, SQL & storytelling  
-🌱 Currently learning: Python, Machine Learning, Power BI
+🌱 I am skilled in Excel, Power BI, and SQL, Python and am currently learning Machine Learning to strengthen my data analysis and automation skills.
 
 
 🚀 Tools & Technologies I Work With:
