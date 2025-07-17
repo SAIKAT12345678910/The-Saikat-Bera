@@ -1,4 +1,3 @@
-The-Saikat-Bera
 Hello world, this is my profile
 
 👋 Hello there, I'm Saikat!
